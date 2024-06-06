@@ -1,0 +1,50 @@
+﻿  MyForm.cpp
+C:\Users\User\source\repos\KYPCACH\Arrow.h(9,11): warning C4570: 'Arrow': is not explicitly declared as abstract but has abstract functions
+  (compiling source file 'MyForm.cpp')
+  C:\Users\User\source\repos\KYPCACH\Arrow.h(9,11):
+  'void Arrow::Tick(void)': is abstract
+  C:\Users\User\source\repos\KYPCACH\Arrow.h(29,15):
+  see declaration of 'Arrow::Tick'
+  
+C:\Users\User\source\repos\KYPCACH\Arrow.h(22,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\KYPCACH\Arrow.h(22,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\KYPCACH\SecArrow.h(17,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\KYPCACH\SecArrow.h(32,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\KYPCACH\SecArrow.h(32,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\KYPCACH\MinArrow.h(17,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\KYPCACH\MinArrow.h(32,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\KYPCACH\MinArrow.h(32,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\KYPCACH\HourArrow.h(18,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\KYPCACH\HourArrow.h(34,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\KYPCACH\HourArrow.h(34,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\KYPCACH\Clock.h(72,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\KYPCACH\Clock.h(72,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\KYPCACH\MyForm.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  KYPCACH.vcxproj -> C:\Users\User\source\repos\KYPCACH\x64\Debug\KYPCACH.exe
